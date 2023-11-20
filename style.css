@@ -47,3 +47,15 @@ html {
   background-repeat: no-repeat;
 }
 
+.overly {
+  height: 100%;
+}
+
+.box1 .overly {
+  background-color: rgb(17 63 19 / 26%);
+}
+
+.box2 .overly {
+  background-color: rgb(0 0 0 / 32%);
+}
+
